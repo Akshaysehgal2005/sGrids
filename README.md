@@ -1,6 +1,6 @@
 # sGrids
 
-Streamlit + AgGrid = Real time edit to Source 
+**S**treamlit + Ag**Grid** = Real time edit to Source 
 
 ## Decription
 
