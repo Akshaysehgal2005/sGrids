@@ -13,7 +13,7 @@ This is a small project to create Streamlit dashboards capable of
 
 - Create conda env / pip venv
 - Run `pip install -r requirements.txt`
-(You may need to run `xcode-select --install` before the above step for Mac)
+> NOTE: You may need to run `xcode-select --install` before the above step for Mac
 
 Or, from scratch - 
 
