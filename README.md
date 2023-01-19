@@ -21,5 +21,7 @@ This is a small project to create Streamlit dashboards capable of
 ### How to run via github
 
 - [Download Data](https://github.com/Akshaysehgal2005/sGrids/blob/main/data.csv)
+- <a href="https://github.com/Akshaysehgal2005/sGrids/blob/main/data.csv" download>Download Data</a>
 - Navigate to folder with download
 - Run `streamlit run https://github.com/Akshaysehgal2005/sGrids/blob/main/editable_grid.py`
+
