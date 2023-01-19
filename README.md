@@ -9,11 +9,17 @@ This is a small project to create Streamlit dashboards capable of
 - Displaying dynamically generated clickable buttons in cells for opening links
 - (more features to come)
 
-### How to run
+### How to run locally
 
-0. Create conda env / pip venv
-1. Install `streamlit` -> follow https://pypi.org/project/streamlit/
-2. Install `streamlit-aggrid` -> follow https://pypi.org/project/streamlit-aggrid/
-3. Add this `editable_grid.py` and `data.csv` to same folder
-4. In terminal/prompt, activate environment and navigate to folder
-5. Run `streamlit run editable_grid.py`
+- Create conda env / pip venv
+- Install `streamlit` -> follow https://pypi.org/project/streamlit/
+- Install `streamlit-aggrid` -> follow https://pypi.org/project/streamlit-aggrid/
+- Add this `editable_grid.py` and `data.csv` to same folder
+- In terminal/prompt, activate environment and navigate to folder
+- Run `streamlit run editable_grid.py`
+
+### How to run via github
+
+- (Download Data)[https://github.com/Akshaysehgal2005/sGrids/blob/main/data.csv]
+- Navigate to folder with download
+- Run `streamlit run https://github.com/Akshaysehgal2005/sGrids/blob/main/editable_grid.py`
