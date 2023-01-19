@@ -1,6 +1,6 @@
 # sGrids
 
-**S**treamlit + Ag**Grid** = Real time edit to Source 
+sGrids = <ins>**S**</ins>treamlit + Ag<ins>**Grid**</ins> = Real time edit to Source 
 
 ## Decription
 
